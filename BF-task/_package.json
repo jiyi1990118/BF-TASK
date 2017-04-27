@@ -1,0 +1,23 @@
+{
+  "name": "BF-task",
+  "description": "task make",
+  "version": "0.0.1",
+  "author": {
+    "name": "xiyuan"
+  },
+  "keywords": [
+    "BF",
+    "task",
+	"xiyuan"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">=0.1.90"
+  },
+  "directories": {
+	"colors":"1.0.3",
+	"less":"2.1.1",
+	"uglify-js":"2.4.16",
+	"watch":"0.13.0",
+  }
+}
